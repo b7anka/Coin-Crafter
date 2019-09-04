@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "378673708227",
+    "firebase_url": "https://coin-crafter.firebaseio.com",
+    "project_id": "coin-crafter",
+    "storage_bucket": "coin-crafter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378673708227:android:b32e761ed88ef3b3",
+        "android_client_info": {
+          "package_name": "com.b7anka.currency_convertor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378673708227-03unlur87n4rfscovf2crqodn50osvqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSjMlk9FoszoFF4h8SsP5ipaqtEaCl6SI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378673708227-03unlur87n4rfscovf2crqodn50osvqi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "378673708227-ipn2tuid694n4gfb9d9q6h7g0qhoi39k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.b7anka.currencyConvertor"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

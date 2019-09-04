@@ -1,0 +1,4 @@
+#Mon Aug 26 11:06:00 WEST 2019
+base.0=/Users/blanka/Documents/Software Development/Mobile Development/Flutter/Currency_Converter/currency_convertor/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

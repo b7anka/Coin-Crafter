@@ -1,0 +1,26 @@
+{
+  "name": "flutter_inapp_purchase",
+  "version": "0.0.1",
+  "summary": "In App Purchase plugin for flutter. This project has been forked by react-native-iap and we are willing to share same experience with that on react-native.",
+  "description": "In App Purchase plugin for flutter. This project has been forked by react-native-iap and we are willing to share same experience with that on react-native.",
+  "homepage": "http://example.com",
+  "license": {
+    "file": "../LICENSE"
+  },
+  "authors": {
+    "Your Company": "email@example.com"
+  },
+  "source": {
+    "path": "."
+  },
+  "source_files": "Classes/**/*",
+  "public_header_files": "Classes/**/*.h",
+  "dependencies": {
+    "Flutter": [
+
+    ]
+  },
+  "platforms": {
+    "ios": "8.0"
+  }
+}

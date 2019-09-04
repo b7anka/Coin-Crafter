@@ -1,0 +1,33 @@
+# Referenced at /Users/blanka/Documents/Software Development/Mobile Development/Flutter/Currency_Converter/currency_convertor/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:32
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /Users/blanka/Documents/Software Development/Mobile Development/Flutter/Currency_Converter/currency_convertor/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:141
+-keep class com.android.billingclient.api.ProxyBillingActivity { <init>(); }
+# Referenced at /Users/blanka/Documents/Software Development/Mobile Development/Flutter/Currency_Converter/currency_convertor/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:42
+-keep class com.b7anka.currency_convertor.MainActivity { <init>(); }
+# Referenced at /Users/blanka/Documents/Software Development/Mobile Development/Flutter/Currency_Converter/currency_convertor/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:105
+-keep class com.google.android.gms.ads.AdActivity { <init>(); }
+# Referenced at /Users/blanka/Documents/Software Development/Mobile Development/Flutter/Currency_Converter/currency_convertor/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:111
+-keep class com.google.android.gms.ads.MobileAdsInitProvider { <init>(); }
+# Referenced at /Users/blanka/Documents/Software Development/Mobile Development/Flutter/Currency_Converter/currency_convertor/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:132
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
+# Referenced at /Users/blanka/Documents/Software Development/Mobile Development/Flutter/Currency_Converter/currency_convertor/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:76
+-keep class com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver { <init>(); }
+# Referenced at /Users/blanka/Documents/Software Development/Mobile Development/Flutter/Currency_Converter/currency_convertor/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:90
+-keep class com.google.android.gms.measurement.AppMeasurementJobService { <init>(); }
+# Referenced at /Users/blanka/Documents/Software Development/Mobile Development/Flutter/Currency_Converter/currency_convertor/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:71
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(); }
+# Referenced at /Users/blanka/Documents/Software Development/Mobile Development/Flutter/Currency_Converter/currency_convertor/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:86
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(); }
+# Referenced at /Users/blanka/Documents/Software Development/Mobile Development/Flutter/Currency_Converter/currency_convertor/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:95
+-keep class com.google.firebase.components.ComponentDiscoveryService { <init>(); }
+# Referenced at /Users/blanka/Documents/Software Development/Mobile Development/Flutter/Currency_Converter/currency_convertor/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:117
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver { <init>(); }
+# Referenced at /Users/blanka/Documents/Software Development/Mobile Development/Flutter/Currency_Converter/currency_convertor/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:126
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
+# Referenced at /Users/blanka/Documents/Software Development/Mobile Development/Flutter/Currency_Converter/currency_convertor/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:32
+-keep class io.flutter.app.FlutterApplication { <init>(); }
+# Referenced at /Users/blanka/Documents/Software Development/Mobile Development/Flutter/Currency_Converter/currency_convertor/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:66
+-keep class io.flutter.plugins.urllauncher.WebViewActivity { <init>(); }
+# Referenced at /Users/blanka/.gradle/caches/transforms-2/files-2.1/8098fb35be14abec9409df03accbf574/res/layout/browser_actions_context_menu_page.xml:5
+-keep class androidx.browser.browseractions.BrowserActionsFallbackMenuView { <init>(...); }
+
