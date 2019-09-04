@@ -1,4 +1,4 @@
-# currency_convertor
+# Coin Crafter (Android, IOS)
 
 This is an application written in flutter (Google's newest framework to build awesome mobile applications) that let's you know the most up-to-date exchange rates of all physical currencies as well as some crypto ones.
 
